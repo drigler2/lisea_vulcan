@@ -20,14 +20,15 @@ As for the server part, I used boost::asio example project (this was my first
 asio project), I mostly used the example code as a template, modifying
 it to fit inside my project.
 
-### TODOs generalise building responses, create some request parser
-selection stuff, also, the server will brake after completing
-processing of a very high load, the ID's seem to be negative in the
-morning, externalise config for region/workerId, etc...
+### TODOs
+generalise building responses, create some request parser selection
+stuff, also, the server will brake after completing processing of a
+very high load, the ID's seem to be negative in the morning,
+externalise config for region/workerId, etc...
 
 ### links
-[Twitter snowflake](https://github.com/twitter-archive/snowflake)
-[Snowflaked by Dwayn Matthies](https://github.com/dwayn/snowflaked)
-[boost::asio examples](https://www.boost.org/doc/libs/1_74_0/doc/html/boost_asio/examples.html)
+* [Twitter snowflake](https://github.com/twitter-archive/snowflake)
+* [Snowflaked by Dwayn Matthies](https://github.com/dwayn/snowflaked)
+* [boost::asio examples](https://www.boost.org/doc/libs/1_74_0/doc/html/boost_asio/examples.html)
 
 LocalWords:  lisea
