@@ -7,7 +7,7 @@ In comparison to a Spring boot application; it's like comparing a
 great race car to a F1 car designed to do only the casino turn in spring of
 '95 in Monte-Carlo.
 
-Currently, Vulcan has throughput of 12 req/s on my PC, I hope this
+Currently, Vulcan has throughput of 12 000 req/s on my PC, I hope this
 will eventually be improved upon, I will also put up more info on this
 in the future.
 
